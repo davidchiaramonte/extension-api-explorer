@@ -20,6 +20,6 @@ application: api-explorer {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "geospatial_david_c_test"
   export: override_optional
 }
